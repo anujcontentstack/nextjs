@@ -10,7 +10,7 @@ export default function Page() {
 
     return (
         <Image
-            alt="The guitarist in the concert."
+            alt="The guitarist in the concert"
             src={`https://images.contentstack.io/v3/assets/blteae40eb499811073/bltc5064f36b5855343/59e0c41ac0eddd140d5a8e3e/owl.jpg?auto=webp`}
             width={1500}
             height={1500}
